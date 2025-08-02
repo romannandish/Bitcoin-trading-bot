@@ -37,15 +37,28 @@ Get **live BTC price feeds**, generate **AI-driven buy/sell signals**, and **vis
 
 ## 🖼️ Screenshots
 
-> 💄 Fully redesigned UI using modern Tailwind CSS components
+> 💄 Fully redesigned UI using modern Tailwind CSS components — clean layout, responsive design, and professional UX across all views.
 
-| ![image1](./public/screenshots/image.png) | ![image2](./public/screenshots/image2.png) |
-|:--:|:--:|
-| 📈 BTC Dashboard UI | 💬 Signal Bot Panel |
+---
 
-| ![image3](./public/screenshots/image3.png) |
-|:--:|
-| 📊 Backtesting and Trade History |
+### 🔸 Dashboard Overview
+
+![Screenshot 1](./Screenshots/image.png)  
+*Live Bitcoin chart + Sidebar navigation with a sleek dark UI.*
+
+---
+
+### 🔸 Trade Panel & Signal Bot
+
+![Screenshot 2](./Screenshots/image2.png)  
+*Real-time BTC signal bot with EMA crossover logic, manual Buy/Sell actions, stop-loss + target inputs, and instant toast notifications.*
+
+---
+
+### 🔸 Trade History & PnL Chart
+
+![Screenshot 3](./Screenshots/image3.png)  
+*Track your trading performance — view historical trades, profit/loss stats, and visualize outcomes with a modern chart.*
 
 ---
 
