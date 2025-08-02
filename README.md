@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 SmartBTC — Bitcoin Trading Dashboard 💹
 
-## Getting Started
+A sleek, real-time **Bitcoin trading platform** powered by React and Tailwind CSS.  
+Get **live BTC price feeds**, generate **AI-driven buy/sell signals**, and **visualize your PnL** — all in a beautiful, modern UI.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔗 Live Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+👉 [Coming Soon](https://your-demo-link.com)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌟 Features
 
-## Learn More
+- 📈 **Live BTC Price Feed** (WebSocket - Binance API)
+- 🤖 **EMA Crossover AI Signal Bot**
+- 🛠️ **Manual & Auto Trading** (Buy/Sell)
+- 📊 **Trade History** with real-time **PnL tracking**
+- 📅 **Backtest Your Strategy** with custom date range
+- 🧾 **Visual PnL Chart** with Recharts
+- 🎨 **Fully Modern UI/UX** with Tailwind CSS
+- 🌙 **Dark Mode** & Sidebar Navigation
+- 🖥️ **Fully Client-side App** (no auth/login yet)
+- 📱 **Responsive Design** for mobile and desktop
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Tech | Description |
+|------|-------------|
+| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Frontend JavaScript framework |
+| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Utility-first CSS framework |
+| ![Recharts](https://img.shields.io/badge/Recharts-888888?logo=recharts&logoColor=white) | Charting library for PnL visualizations |
+| ![WebSocket](https://img.shields.io/badge/WebSocket-008080?logo=websocket&logoColor=white) | Real-time BTC price feed |
+| ![Binance](https://img.shields.io/badge/Binance_API-F3BA2F?logo=binance&logoColor=black) | Live BTC price stream |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | Core language |
+| ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) | Fast build tool for React apps |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🖼️ Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+> Modern dashboard with real-time data & beautiful UI
+
+| ![Screenshot 1](./screenshots/Screenshot-2025-08-03-031451.png) | ![Screenshot 2](./screenshots/Screenshot-2025-08-03-031703.png) |
+|:--:|:--:|
+| 💄 Improved modern UI | 📈 Signal + Trade Panel |
+
+> *(Place these screenshots in a `/screenshots/` folder inside your repo)*
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/romannandish/SmartBTC.git
+   cd SmartBTC
+
